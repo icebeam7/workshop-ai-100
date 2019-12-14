@@ -49,9 +49,11 @@ To access your Speech Translation API subscription, you'll need to a subscriptio
 1. Open Visual Studio 2019
 
 2. Create a Console app with the name SpeechDemo
+
 ![Console app](/images/03.png)
 
 3. Add the Microsoft.CognitiveServices.Speech Nuget package to your project
+
 ![Speech SDK](/images/04.png)
 
 4. Use the code from [Program.cs](/resources/Program.cs)
@@ -59,5 +61,6 @@ To access your Speech Translation API subscription, you'll need to a subscriptio
 5. Replace key and region values in line 12 with the ones from your Azure account.
 
 6. Compile and Test the app.
+
 ![Speech Project](/images/05.png)
 

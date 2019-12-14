@@ -30,14 +30,17 @@ You can use your Azure account to create and manage a Machine Learning Studio Wo
 1. Sign in to the [Azure portal](https://portal.azure.com/).
 
 2. On the dashboard, select Create a resource.
+
 ![Azure Portal](/images/02.png)
 
 3. In the search bar, enter Machine Learning Studio (classic) Workspace.
 
 4. Click on the Create button.
+
 ![Create](/images/03.png)
 
 5. Enter your workspace information, for instance:
+
 ![Workspace info](/images/04.png)
 
 6. Select Create and wait until the resource is created and deployed.
@@ -78,6 +81,7 @@ To import a dataset into Machine Learning Studio:
 11. Select New > Experiment > Blank Experiment.
 
 12. Select Saved Datasets > My Datasets > Building Data.csv.
+
 ![Building Data dataset](/images/05.png)
 
 13. Drag this dataset onto the designer surface.

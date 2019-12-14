@@ -29,6 +29,7 @@ Every call to Text Analytics API requires a subscription key. Often called an ac
 5. In the Create page that opens, enter the required values into each field.
 
 6. Select Create at the bottom of the page to start the account creation process. Watch for a notification that the deployment is in progress. You'll then get a notification that the account has been deployed successfully to your resource group.
+
 ![Resource created](/images/00.png)
 
 ### Get the access key
@@ -40,6 +41,7 @@ Now that we have our Cognitive Services account, let's find the access key so we
 8. Select the Keys menu item from the menu on the left, or in the Grab your keys section of the quickstart. This action opens the Manage keys page.
 
 9. Copy one of the keys using the copy button.
+
 ![Keys](/images/01.png)
 
 ### Call the API from the testing console
